@@ -1,0 +1,9 @@
+#
+# fips-enkits
+#
+---
+exports:
+    header-dirs:
+        - enkits/src
+    modules:
+        enkits: .
